@@ -14,7 +14,7 @@ while ready != "Yes":
         break
     else:
         print ("Please authenticate")
-print("Fuck Yeah")
+print("Successfully Authenticated!")
 
 countDown = 30
 
